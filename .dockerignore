@@ -1,0 +1,36 @@
+# Version control
+.git
+.gitignore
+.gitattributes
+
+# IDE
+.idea
+.vscode
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings
+.sts4-cache
+.apt_generated
+.factorypath
+
+# Build artifacts
+target/
+build/
+.mvn/wrapper/maven-wrapper.jar
+
+# CI/CD
+.github
+.gitlab-ci.yml
+.travis.yml
+
+# Documentation
+*.md
+HELP.md
+
+# Other
+node_modules
+.DS_Store
+*.log
